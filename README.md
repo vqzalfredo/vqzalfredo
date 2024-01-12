@@ -1,4 +1,4 @@
-# Hola, mi nombre es Alfredo Vásquez 😎
+# Hola, mi nombre es Alfredo Vásquez <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 ### 📌 Administrador de centro de datos 
 #### Con experiencia en automatización de procesos. Me encanta aprender y participar en nuevos proyectos. Siempre estoy buscando oportunidades para ayudar a mi equipo y a mi organización a crecer. Me apasiona la tecnología y me encanta trabajar en soluciones innovadoras que mejoren la eficiencia y la productividad.
 
