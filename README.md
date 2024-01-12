@@ -2,14 +2,7 @@
 ### 📌 Estoy buscando colaborar en la comunidad Linux
 
 
-<pre>
-  <code>
-    <ul>
-      <li><img src="ruta/al/icono/windows.png" alt="Windows Server"> Windows Server</li>
-    <li><img src="ruta/al/icono/vmware.png" alt="VmWare"> VmWare</li>
-    </ul>
-  </code>
-</pre>
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
 
 ## Encuéntrame en:
