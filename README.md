@@ -5,7 +5,7 @@
 <pre>
   <code>
     <ul>
-    <li><img src="ruta/al/icono/linux.png" alt="Linux"> Linux</li>
+    <li><img src="![image](https://github.com/vqzalfredo/vqzalfredo/assets/153464611/5f56c63a-722c-4989-9610-06aeac337a59)" alt="Linux"> Linux</li>
     <li><img src="ruta/al/icono/windows.png" alt="Windows Server"> Windows Server</li>
     <li><img src="ruta/al/icono/vmware.png" alt="VmWare"> VmWare</li>
     </ul>
