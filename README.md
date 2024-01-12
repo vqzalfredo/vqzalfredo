@@ -2,7 +2,6 @@
   <img style="width:8rem; height:auto" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"/>
 </p>
 <h1 align="center">Hola, soy Alfredo Vásquez</h1>
-<h2 align="center">Administrador de centro de datos</h2>
 
 #### Con experiencia en automatización de procesos. Me encanta aprender y participar en nuevos proyectos. Siempre estoy buscando oportunidades para ayudar a mi equipo y a mi organización a crecer. Me apasiona la tecnología y me encanta trabajar en soluciones innovadoras que mejoren la eficiencia y la productividad.
 
