@@ -1,6 +1,6 @@
 # Hola, mi nombre es Alfredo Vásquez 😎
 ### 📌 Administrador de centro de datos 
-## Con experiencia en automatización de procesos. Me encanta aprender y participar en nuevos proyectos. Siempre estoy buscando oportunidades para ayudar a mi equipo y a mi organización a crecer. Me apasiona la tecnología y me encanta trabajar en soluciones innovadoras que mejoren la eficiencia y la productividad.
+#### Con experiencia en automatización de procesos. Me encanta aprender y participar en nuevos proyectos. Siempre estoy buscando oportunidades para ayudar a mi equipo y a mi organización a crecer. Me apasiona la tecnología y me encanta trabajar en soluciones innovadoras que mejoren la eficiencia y la productividad.
 
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
